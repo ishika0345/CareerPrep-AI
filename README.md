@@ -1,7 +1,9 @@
 1️⃣ Project Title
+
   Resume2Interview AI
 
 2️⃣ Short Description
+
 An AI-powered resume analysis and interview preparation platform that
 matches resumes with job descriptions using ATS rules.
 
@@ -21,7 +23,6 @@ matches resumes with job descriptions using ATS rules.
 
 5️⃣ Installation & Run
 ## Installation
-git clone https://github.com/your-username/resumematch-ai
 pip install -r requirements.txt
 streamlit run app.py
 
